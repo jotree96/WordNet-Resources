@@ -29,6 +29,17 @@ Documented Resources for and about WordNets
 | PassivLingo         |                                                       	|                                            	|                                	|                                   	|
 | Open English WordNet|                                                       	|                                            	|                                	|                                   	|
 | Princeton WordNet  	|                                                       	|                                            	|                                	| Available, outdated design         	|
+| sloWTool | „Slovenian WordNet browser, vizualizator, tool, ...“|          |https://launchpad.net/slowtool|              |
+
+
+## Lexical Markup Framework – Document Type Definition
+For an accessible way to work with structured XML files.
+
+- https://github.com/globalwordnet/schemas/tree/master
+  - [WN-LMF-1.0](https://github.com/globalwordnet/schemas/blob/master/WN-LMF-1.0.dtd)
+  - [WN-LMF-1.1](https://github.com/globalwordnet/schemas/blob/master/WN-LMF-1.1.dtd)
+  - [WN-LMF-1.2](https://github.com/globalwordnet/schemas/blob/master/WN-LMF-1.2.dtd)
+  - [WN-LMF-1.3](https://github.com/globalwordnet/schemas/blob/master/WN-LMF-1.3.dtd)
 
 <img src="https://github.com/jotree96/WordNet-Resources/assets/121631943/a3ae38a2-ed58-47e0-8d17-6aa5dc1a5a70" width="20" height="20"> 
 
