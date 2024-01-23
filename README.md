@@ -31,6 +31,8 @@ Documented Resources for and about WordNets
 | Princeton WordNet  	|                                                       	|                                            	|                                	| Available, outdated design         	|
 | sloWTool | „Slovenian WordNet browser, vizualizator, tool, ...“|          |https://launchpad.net/slowtool|              |
 
+## Validator and Converter
+[GWC Validator and Converter](https://server1.nlp.insight-centre.org/gwn-converter/)
 
 ## Lexical Markup Framework – Document Type Definition
 For an accessible way to work with structured XML files.
