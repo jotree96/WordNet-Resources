@@ -7,6 +7,7 @@ Documented Resources for and about WordNets
 
 > WordNet(r) is an online lexical reference system whose design is inspired by current psycholinguistic theories of human lexical memory. English nouns, verbs, adjectives and adverbs are organized into synonym sets, each representing one underlying lexical concept. Different relations link the synonym sets. [w3c](https://www.w3.org/wiki/WordNet)
 
+- Documentation of WordNets by GWA: [GWA Documentation](https://globalwordnet.github.io/gwadoc/)
 
 ### Available WordNets
 - [OMW among others](https://github.com/omwn/omw-data/releases/tag/v1.4)
