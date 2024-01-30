@@ -32,7 +32,13 @@ Documented Resources for and about WordNets
 | sloWTool | „Slovenian WordNet browser, vizualizator, tool, ...“|          |https://launchpad.net/slowtool|              |
 
 
-## Lexical Markup Framework – Document Type Definition
+## Formats
+
+### Formats documented by GWA
+- https://globalwordnet.github.io/schemas/
+
+
+### Lexical Markup Framework – Document Type Definition
 For an accessible way to work with structured XML files.
 
 - https://github.com/globalwordnet/schemas/tree/master
