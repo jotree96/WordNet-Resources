@@ -22,8 +22,8 @@ Documented Resources for and about WordNets
 | Princeton WordNet  	|                                                       	|                                            	|                                	| Available, outdated design         	|
 | sloWTool | „Slovenian WordNet browser, vizualizator, tool, ...“|          |https://launchpad.net/slowtool|              |
 
-## GWA
-
+## (Global WordNet Association) GWA
+- [GWA on GitHub](https://github.com/globalwordnet)
 - https://globalwordnet.github.io/schemas/ 
 - Documentation of WordNets by GWA: [GWA Documentation](https://globalwordnet.github.io/gwadoc/)
 
@@ -35,6 +35,7 @@ Documented Resources for and about WordNets
 
 ### Validator and Converter
 - [GWA Validator and Converter](https://server1.nlp.insight-centre.org/gwn-converter/)
+  - [Soruce Code](https://github.com/jmccrae/gwn-scala-api)
 
 ### Lexical Markup Framework – Document Type Definition
 For an accessible way to work with structured XML files.
