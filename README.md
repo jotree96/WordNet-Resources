@@ -24,7 +24,7 @@ Documented Resources for and about WordNets
 
 ## (Global WordNet Association) GWA
 - [GWA on GitHub](https://github.com/globalwordnet)
-- https://globalwordnet.github.io/schemas/ 
+- [Schemas](https://globalwordnet.github.io/schemas/)
 - Documentation of WordNets by GWA: [GWA Documentation](https://globalwordnet.github.io/gwadoc/)
 
 ### Available WordNets
@@ -34,7 +34,7 @@ Documented Resources for and about WordNets
 - [Global WordNet Assocation](http://globalwordnet.org/resources/wordnets-in-the-world/); mostly broken links
 
 ### Validator and Converter
-- [GWA Validator and Converter](https://server1.nlp.insight-centre.org/gwn-converter/)
+- [GWA Validator and Converter Website](https://server1.nlp.insight-centre.org/gwn-converter/)
   - [Soruce Code](https://github.com/jmccrae/gwn-scala-api)
 
 ### Lexical Markup Framework – Document Type Definition
